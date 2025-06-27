@@ -8,7 +8,7 @@
 		<string>com.apple.driver.AppleGFXHDA</string>
 		<key>Paths</key>
 		<array>
-			<string>/Library/Extensions/AppleGFXHDA.kext/Contents/MacOS/AppleGFXHDA</string>
+			<string>/System/Library/Extensions/AppleGFXHDA.kext/Contents/MacOS/AppleGFXHDA</string>
 		</array>
 	</dict>
 	<key>AppleHDA</key>
@@ -19,7 +19,7 @@
 		<string>com.apple.driver.AppleHDA</string>
 		<key>Paths</key>
 		<array>
-			<string>/Library/Extensions/AppleHDA.kext/Contents/MacOS/AppleHDA</string>
+			<string>/System/Library/Extensions/AppleHDA.kext/Contents/MacOS/AppleHDA</string>
 		</array>
 		<key>Reloadable</key>
 		<true/>
@@ -30,7 +30,7 @@
 		<string>com.apple.driver.AppleHDAController</string>
 		<key>Paths</key>
 		<array>
-			<string>/Library/Extensions/AppleHDA.kext/Contents/PlugIns/AppleHDAController.kext/Contents/MacOS/AppleHDAController</string>
+			<string>/System/Library/Extensions/AppleHDA.kext/Contents/PlugIns/AppleHDAController.kext/Contents/MacOS/AppleHDAController</string>
 		</array>
 	</dict>
 	<key>AppleHDAPlatformDriver</key>
@@ -39,7 +39,7 @@
 		<string>com.apple.driver.AppleHDAPlatformDriver</string>
 		<key>Paths</key>
 		<array>
-			<string>/Library/Extensions/AppleHDA.kext/Contents/PlugIns/AppleHDAPlatformDriver.kext/Contents/MacOS/AppleHDAPlatformDriver</string>
+			<string>/System/Library/Extensions/AppleHDA.kext/Contents/PlugIns/AppleHDAPlatformDriver.kext/Contents/MacOS/AppleHDAPlatformDriver</string>
 		</array>
 	</dict>
 	<key>IOHDAFamily</key>
@@ -48,7 +48,7 @@
 		<string>com.apple.iokit.IOHDAFamily</string>
 		<key>Paths</key>
 		<array>
-			<string>/Library/Extensions/AppleHDA.kext/Contents/PlugIns/IOHDAFamily.kext/Contents/MacOS/IOHDAFamily</string>
+			<string>/System/Library/Extensions/AppleHDA.kext/Contents/PlugIns/IOHDAFamily.kext/Contents/MacOS/IOHDAFamily</string>
 		</array>
 	</dict>
 </dict>
